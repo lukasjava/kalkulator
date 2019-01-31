@@ -10,7 +10,8 @@ public class Main {
         // write your code here
         int L1;
         int L2;
-        char odpowiedni_znak;
+        //ty
+        char odpowiednieftytfytgf_znak;
 
         Scanner wej = new Scanner(System.in);
         System.out.println("podaj liczbe pierwsza:");

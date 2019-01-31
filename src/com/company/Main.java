@@ -10,8 +10,8 @@ public class Main {
         // write your code here
         int L1;
         int L2;
-        //ty
-        char odpowiednieftytfytgf_znak;
+        //skfdjdgkehdfbdshjgbjhgbsdgjbdgbsddshkbvfhsdhkbvsedvkhbfsdvnlebsdnf
+        char odpowiedni_znaki;
 
         Scanner wej = new Scanner(System.in);
         System.out.println("podaj liczbe pierwsza:");
@@ -26,8 +26,8 @@ public class Main {
         System.out.println("dzielenie: wpisz /");
         System.out.println("modulo: wpisz %");
 
-        odpowiedni_znak = wej.next().charAt(0);
-        switch (odpowiedni_znak) {
+        odpowiedni_znaki = wej.next().charAt(0);
+        switch (odpowiedni_znaki) {
             case '+': {
                 int wynikSumy = L1 + L2;
                 boolean prawda = true;
